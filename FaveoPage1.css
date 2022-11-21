@@ -1,0 +1,180 @@
+*{
+	margin: 0;
+	padding: 0;
+font-family: sans-serif;
+}
+ul{
+	list-style-type: none;
+margin: 10px;
+padding: 20px;
+}
+li{
+float: right;
+
+}
+li a {
+display: block;
+color: blue;
+padding: 16px;
+text-decoration: none;
+}
+li a:hover{
+	background-color: white;
+}
+.Home2{
+	padding: 10px 20px;
+	width: 100%;
+	height: 20px ;
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+}
+.bottom-contact-menu{
+	position : relative;
+	left: 400px;
+	top: 12px;
+  width: 100%;
+  padding: 5px 0;
+}
+.address-bottom-menu{
+	position: relative;
+	right: 10px;
+}
+
+.headTag{
+    color: green;
+    font-size: 15px;
+    text-align: center;
+}
+.headTag1{
+	color: green;
+	text-align: center;
+}
+.navbar{
+	position: relative;
+	rigth:100px;
+	justify-content: space-between;
+}
+h1{
+	text-align: center;
+}
+p{
+	text-align: right;
+	color: green;
+}
+.text{
+	margin-top: 5px;
+}
+.selector{
+	width: 100%;
+	padding: 10px;
+	margin: 10px 0;
+	border-bottom: 1px solid #999;
+	outline: none;
+	background: transparent;
+}
+.Home{
+	position: relative;
+	right: 125px;
+	text-align: center;
+	color: red;
+}
+.Home1{
+	color:grey ;
+text-align: center;
+}
+.input-container{
+	width: 100%;
+	margin-bottom: 15px;
+	display: block;
+	position: relative;
+	}
+.hero{
+height: 100%;
+width: 100%;
+background-image: none;
+background-position: center;
+background-size: cover;
+}
+.form-box{
+width: 500px;
+height: 480px;
+position: relative;
+margin: 6% auto;
+background: #fff;
+padding: 5px;
+overflow: hidden;
+}
+.button-box
+ {
+ 	display: block;
+width: 400px;
+	height:600px;
+margin: 35px auto;
+position: relative;
+box-shadow: 0 0 20px 9px #ff61241f;
+border-radius: 12px;
+}.form-box1{
+width: 500px;
+height: 480px;
+position: relative;
+margin: 6% auto;
+background: #fff;
+padding: 5px;
+overflow: hidden;
+}
+.button-box1 {
+width: 1000px;
+	height:1200px;
+margin: 35px auto;
+position: absolute;
+box-shadow: 0 0 20px 9px #ff61241f;
+border-radius: 12px;
+}
+#btn{
+top: 0;
+left: 0;
+position: relative;
+width: 110px;
+height: 100%;
+border-radius: 30px;
+transition: 0.5s;
+}
+.input-group{
+top: 180px;
+position: relative;
+width: 280px;
+transition: .5s;
+list-style-type: circle;
+}
+.input-field{
+width: 100%;
+padding: 10px;
+margin: 5px 0;
+border-bottom: 1px solid #999;
+	position:relative;
+outline: none;
+background: transparent;
+list-style-type: circle;
+}
+
+.submit-btn{
+width: 85%;
+padding: 10px 30px;
+cursor: pointer;
+display: block;
+	position: relative;
+margin: 10px;
+border: 0;
+outline: none;
+border-radius: 30px;
+}
+.check-box{
+
+width: 200px;
+}
+
+img{
+	position:absolute;
+	top:50px;
+}
